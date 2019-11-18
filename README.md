@@ -7,5 +7,5 @@ The device hardware is as follows:
 The output of the device is as follows:
 ![github-small](https://github.com/azraful/Air-Quality-Monitor/blob/master/Serial%20Monitor.PNG?raw=true)
 
-The # demonstration of this device can be found here:
+The demonstration of this device can be found here:
 https://youtu.be/0qiLEuuZsO8
